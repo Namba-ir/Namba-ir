@@ -24,10 +24,10 @@
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namba-ir&theme=dark&background=000000)](https://namba.ir/)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namba-ir&theme=dark&background=000000)](https://namba.ir/)
+
 ---
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
