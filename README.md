@@ -2,6 +2,9 @@
 <div id="header" align="left">
   <img align="center" src="https://komarev.com/ghpvc/?username=Namba-ir&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="header" align="left">
+  <img align="center" src="https://img.shields.io/badge/Namba_Projects-780-blue" alt=""/>
+</div>
 Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
