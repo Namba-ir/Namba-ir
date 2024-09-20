@@ -23,7 +23,11 @@ Languages and Tools :
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namba-ir&theme=dark&background=000000)](https://namba.ir/)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namba-ir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 Here are some ideas to get you started:
