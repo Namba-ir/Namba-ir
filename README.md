@@ -21,7 +21,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namba-ir&theme=dark&background=000000)](https://namba.ir/)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namba-ir&theme=dark&background=000000)](https://namba.ir/)
+</div>
 ---
 
 <div id="header" align="center">
